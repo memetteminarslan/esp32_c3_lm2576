@@ -9,9 +9,9 @@ The ESP32 C3 module board is an impressive IoT (Internet of Things) platform tha
 
 This module board combines the powerful capabilities of the ESP32 C3 and the efficiency of the LM2576 power converter, making it an excellent foundational platform for various electronic projects.
 
-##Schematic
+Schematic
 ![099_Esp32_C3_Lm2576-1](https://github.com/memetteminarslan/esp32_c3_lm2576/assets/74721347/e1ef0327-6a93-44ca-987a-950d19a10b3b)
 
-##PCB
+PCB
   
 ![Ekran Alıntısı](https://github.com/memetteminarslan/esp32_c3_lm2576/assets/74721347/16018e53-bdaf-4492-931b-f54fdba9d5a6)
