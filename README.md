@@ -12,8 +12,5 @@ This module board combines the powerful capabilities of the ESP32 C3 and the eff
 If you have any questions, contact : memetteminarslan@gmail.com
 
 Schematic
-![099_Esp32_C3_Lm2576-1](https://github.com/memetteminarslan/esp32_c3_lm2576/assets/74721347/e1ef0327-6a93-44ca-987a-950d19a10b3b)
 
-PCB
-  
-![Ekran Alıntısı](https://github.com/memetteminarslan/esp32_c3_lm2576/assets/74721347/16018e53-bdaf-4492-931b-f54fdba9d5a6)
+![099_Esp32_C3_Lm2576-1](https://github.com/memetteminarslan/esp32_c3_lm2576/assets/74721347/57d01de1-8c18-4414-a117-359b0c252711)
